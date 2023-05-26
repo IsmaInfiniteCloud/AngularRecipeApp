@@ -28,7 +28,7 @@ This is a recipe app built with Angular. It allows users to browse and discover 
 ## Screenshots
 
 ![Home Page](home-page.png)
-![Recipes](screenshots/recettes.png)
+![Recipes](recettes.png)
 
 ## License
 
